@@ -19,9 +19,9 @@
     font-size: 2.5em;
 }
 
-.sub{
+.header > .sub{
     margin-top: 20px;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 .divider1{
