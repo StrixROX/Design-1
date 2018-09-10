@@ -8,7 +8,7 @@ $(document).scroll(function(){
         if(x < 0.35){
             $('.nav-item').css('filter', 'invert(' + x*200 + '%)');
         }else{
-            $('.nav-item').css('filter', 'invert(' + 70 + '%)');
+            $('.nav-item').css('filter', 'invert(' + 52 + '%)');
         }
     }
     

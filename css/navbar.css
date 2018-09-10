@@ -10,7 +10,7 @@ body{
     font-family: 'Open Sans';
     color: whitesmoke;
     background-color: rgb(250, 250, 250);
-    height: 10000px;
+    min-height: 10000px;
 }
 
 .navbar{
@@ -34,9 +34,9 @@ body{
     text-align: center;
 }
 
-::-webkit-scrollbar{
+/*::-webkit-scrollbar{
     display: none;
-}
+}*/
 
 /* .search{
     display: flex;
